@@ -1,0 +1,37 @@
+# This is a showcase and distribution repository: documentation, screenshots
+# and licensing only. The application itself is published through GitHub
+# Releases, never committed here.
+
+# Release binaries and archives belong on the Releases page, not in history.
+*.zip
+*.exe
+*.dmg
+*.app/
+*.msi
+*.sha256
+
+# Operating system and editor noise.
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+.AppleDouble
+._*
+.idea/
+.vscode/
+*.swp
+*~
+
+# Nothing from the private source tree should ever land here.
+backend/
+frontend/
+scripts/
+tests/
+*.py
+*.ts
+*.tsx
+node_modules/
+__pycache__/
+.venv/
+*.log

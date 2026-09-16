@@ -1,0 +1,95 @@
+CodeDNA for Windows — Proprietary Software License
+
+Copyright (c) 2026 Helinity
+Contact: Helin.dev@protonmail.com
+All rights reserved.
+
+IMPORTANT: READ THIS LICENSE CAREFULLY BEFORE USING CODEDNA.
+
+This Proprietary Software License Agreement ("License") governs your use of the Windows version of CodeDNA ("Software"). By downloading, installing, copying, or using the Software, you agree to this License.
+
+1. LICENSE GRANT
+
+The copyright holder grants you a limited, non-exclusive, non-transferable, revocable license to download, install, and use the Software on compatible Windows x64 systems for lawful personal, educational, evaluation, or internal professional use.
+
+No ownership interest in the Software or its source code is transferred to you.
+
+2. PERMITTED USE
+
+You may:
+- install and run the official CodeDNA release on compatible devices;
+- analyze source code, projects, repositories, archives, and files that you own or are authorized to access;
+- use reports, findings, graphs, exports, and analysis results for lawful purposes;
+- keep reasonable backup copies of the unmodified official distribution for your own use.
+
+3. RESTRICTIONS
+
+Unless you have prior written permission from the copyright holder, you may not:
+- redistribute, sublicense, publish, mirror, rent, lease, sell, resell, or commercially distribute the Software;
+- modify, patch, adapt, translate, create derivative works from, or repackage the Software;
+- remove or alter copyright, trademark, attribution, licensing, or proprietary notices;
+- reverse engineer, decompile, disassemble, decode, extract, reconstruct, or otherwise attempt to derive source code, proprietary rules, analyzers, algorithms, or non-public components, except where applicable law expressly prohibits such a restriction;
+- bypass or interfere with integrity checks, licensing controls, signing protections, security mechanisms, or other protective measures;
+- distribute altered, malicious, misleading, unofficial, or repackaged builds under the CodeDNA name;
+- use the Software to access, scan, test, attack, interfere with, or analyze systems, repositories, accounts, or data without proper authorization.
+
+4. SECURITY ANALYSIS DISCLAIMER
+
+CodeDNA is a static analysis and code intelligence tool. Findings are informational and may contain false positives, false negatives, incomplete findings, or context-dependent results.
+
+CodeDNA does not guarantee that analyzed software is secure, vulnerability-free, compliant, production-ready, or suitable for any particular purpose.
+
+You are responsible for independently reviewing findings and deciding how to remediate, test, deploy, or rely on analyzed software.
+
+5. AUTHORIZED USE ONLY
+
+You may use CodeDNA only on software, repositories, systems, files, and data that you own or are expressly authorized to analyze.
+
+You are solely responsible for complying with applicable laws, contracts, policies, and authorization requirements.
+
+6. THIRD-PARTY COMPONENTS
+
+The Software may include or depend on third-party libraries, runtimes, frameworks, platform components, or other software. Those components remain subject to their own licenses and terms.
+
+This License applies only to proprietary CodeDNA components and does not replace third-party license obligations.
+
+
+7. OWNERSHIP
+
+CodeDNA, including its proprietary source code, analysis engine, rules, analyzers, architecture, user interface, documentation, branding, and other original components, is owned by the copyright holder and protected by applicable intellectual property laws.
+
+All rights not expressly granted are reserved.
+
+8. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, RELIABILITY, SECURITY, NON-INFRINGEMENT, OR ERROR-FREE OPERATION.
+
+USE OF THE SOFTWARE IS AT YOUR OWN RISK.
+
+9. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, CONSEQUENTIAL, OR OTHER DAMAGES, INCLUDING LOSS OF DATA, LOSS OF PROFITS, BUSINESS INTERRUPTION, SECURITY INCIDENTS, SYSTEM FAILURE, OR DAMAGES ARISING FROM RELIANCE ON SOFTWARE FINDINGS OR FAILURE TO IDENTIFY A VULNERABILITY.
+
+10. TERMINATION
+
+This License automatically terminates if you materially violate its terms. Upon termination, you must stop using the Software and delete copies in your possession or control, except where retention is required by law.
+
+11. UPDATES AND FUTURE VERSIONS
+
+Future versions, updates, previews, beta builds, platform releases, or additional CodeDNA components may be governed by updated or separate terms.
+
+The availability of one release does not create an obligation to provide support, maintenance, compatibility, updates, or future releases.
+
+12. BRANDING
+
+The CodeDNA name, logo, visual identity, and associated branding may not be used to market, endorse, distribute, or identify modified or third-party software without prior written permission.
+
+13. SEVERABILITY
+
+If any provision of this License is found unenforceable, the remaining provisions remain effective to the maximum extent permitted by law.
+
+14. ENTIRE AGREEMENT
+
+This License governs your use of the proprietary CodeDNA Windows distribution unless a separate written agreement has been executed with the copyright holder.
+
+By downloading, installing, or using CodeDNA for Windows, you acknowledge that you have read, understood, and agreed to this License.
