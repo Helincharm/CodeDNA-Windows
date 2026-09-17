@@ -368,8 +368,6 @@ Entry-point discovery and project relationship data currently exist at the engin
 
 The Windows v1.0.0 desktop interface does **not** currently provide a dedicated interactive graph visualization.
 
-Do not change this wording unless the shipped UI actually gains that functionality.
-
 ---
 
 ## Desktop Architecture
@@ -485,8 +483,6 @@ Python currently receives CodeDNA's deepest language-analysis coverage.
 
 These languages receive static security analysis with lightweight intra-file flow analysis.
 
-This must not be described as cross-file or interprocedural taint analysis.
-
 ---
 
 ## Static Security Analysis
@@ -580,8 +576,6 @@ This distinction must remain explicit.
 These languages are recognized and included in project inventory.
 
 They do not currently receive the same analyzer depth as the analyzer-covered languages and formats above.
-
-Do not describe them as deeply analyzed.
 
 ---
 
