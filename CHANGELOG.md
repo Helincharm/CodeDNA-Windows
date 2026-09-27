@@ -5,6 +5,46 @@ All notable changes to CodeDNA are recorded in this file.
 The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and the project uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.1] — 2026-09-27
+
+### Added
+
+- Interactive Code Graph for Python projects, available from the scan results:
+  - Project view: packages and modules and the dependencies between them, with
+    package drill-down and a neighbourhood view for any module or symbol.
+  - Calls view: the call graph between project functions and methods, as an
+    overview of the most connected modules and as a view of a single function
+    with its callers and callees.
+  - Focus Flow, relationship filters, main and all links, Fit, zoom, pan and an
+    expanded view.
+  - Mutual recursion is drawn as one card per function joined by a two-way
+    edge; a function that calls itself is drawn as a loop on its own card.
+  - External and unresolved calls can be shown as cards of their own; both are
+    hidden by default. Unresolved calls are never attributed to a guessed
+    target.
+  - Symbol and package inspector with qualified names, definitions, return
+    types, data flow, callers, callees and references.
+  - Scans recorded by earlier versions are identified as having no symbol
+    index; a new scan of the project generates it.
+- `THIRD-PARTY-NOTICES.txt` in the distribution, listing the third-party
+  components included in the application together with their licenses.
+
+### Changed
+
+- The background animation pauses while the window is minimised or not in
+  focus, so an idle CodeDNA window uses almost no CPU.
+- Scans run at full speed while the CodeDNA window is in the background.
+- Clearer and more consistent interface text, empty states and tooltips, and
+  higher contrast for secondary text in both themes.
+- Package and executable metadata identify CodeDNA as proprietary software by
+  Helinity; the executable's version information reads 1.0.1.
+
+### Fixed
+
+- The interface recovers when the analysis engine becomes ready late at
+  startup, so the engine status, scan history and log access load reliably.
+- Long names wrap at name separators in the inspector.
+
 ## [1.0.0] — 2026-09-16
 
 First public desktop release.
@@ -86,4 +126,5 @@ First public desktop release.
 - Findings are indicators that require human review. They are not proof of
   exploitability, and a clean scan is not proof that software is secure.
 
-[1.0.0]: https://github.com/
+[1.0.1]: https://github.com/Helincharm/CodeDNA-Windows/releases/tag/v1.0.1
+[1.0.0]: https://github.com/Helincharm/CodeDNA-Windows/releases/tag/v1.0.0
